@@ -2,7 +2,7 @@
 
 A demo program for Chinese information retreival.  
 When given a Chinese keyword, it will search the text documents and output the IDs of five most related documents.
-The search results are ranked based on TF/IDF weights.
+The search results are ranked based on TF/IDF weighting.
 
 # Result Display
 The search results are displayed in the following form:
