@@ -56,7 +56,7 @@ public class IndexEntry {
 	}
 
 	/**
-	 * This method will calculate the idf
+	 * This method will calculate the idf score
 	 * 
 	 * @param totalDocNumber
 	 */
@@ -65,7 +65,7 @@ public class IndexEntry {
 	}
 
 	/**
-	 * This method will return the idf
+	 * This method will return the idf score
 	 * @return idf
 	 */
 	public double getIdf() {
@@ -73,8 +73,8 @@ public class IndexEntry {
 	}
 
 	/**
-	 * This method will return the save string
-	 * @return save string
+	 * This method will return the saved string
+	 * @return saved string
 	 */
 	public String toSaveString() {
 		String result = term + ",";
