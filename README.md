@@ -7,7 +7,7 @@ The search results are ranked based on TF/IDF weighting.
 # Result Display
 The search results are displayed in the following form:
 
-     Document ID, TF/IDF score of the keyword in this text
+     Doc ID, TF/IDF score of the keyword in this document
 
 For example:
 
