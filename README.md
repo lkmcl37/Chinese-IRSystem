@@ -1,6 +1,7 @@
 # A Simple Tool for Chinese Information Retrieval
 
-When given an user query (keyword), this tool will search the documents in the corpus and rank their relevance based on TF/IDF scores.
+When input a keyword, this tool will search and rank the matching documents according to their relevance to the given query.
+The relevance is estimated based on TF/IDF weighting.
 
 # Result Display
 The search results are displayed as follow:
