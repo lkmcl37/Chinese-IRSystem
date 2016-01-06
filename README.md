@@ -1,11 +1,9 @@
-# Simple Chinese IRSystem
+# A Simple Tool for Chinese Information Retrieval
 
-A demo program for Chinese information retreival.  
-When given a Chinese keyword, it will search the text documents and output the IDs of five most related documents.
-The search results are ranked based on TF/IDF weighting.
+When given an user query (keyword), this tool will search the documents in the corpus and rank their relevance based on TF/IDF scores.
 
 # Result Display
-The search results are displayed in the following form:
+The search results are displayed as follow:
 
      Doc ID, TF/IDF score of the keyword in this document
 
