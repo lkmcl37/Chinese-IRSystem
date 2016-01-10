@@ -6,7 +6,7 @@ The degree of relevance is estimated based on TF/IDF weighting.
 # Result Display
 The search results are displayed as follows:
 
-     Doc ID, TF/IDF score of the keyword in this document
+     Document ID, TF/IDF score of the keyword in this document
 
 For example:
 
@@ -29,8 +29,7 @@ For example:
 The documents are stored in .txt files and arranged in the following format:
 
            \<docid> document ID \<docid>
-           \<doc> document content 
-           \<doc>
+           \<doc> document content \<doc>
 
 # Chinese Word Segmentation
 The Chinese word segmenter used for the documents is lucene-core-3.6.0 + IKAnalyzer2012.
