@@ -4,7 +4,7 @@ When input a keyword, this tool will search and rank the matching documents in c
 The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
-The search results are displayed as follow:
+The search results are displayed in following format:
 
      Doc ID, TF/IDF score of the keyword in this document
 
