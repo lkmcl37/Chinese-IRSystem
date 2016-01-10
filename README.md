@@ -1,6 +1,7 @@
 # A Simple Tool for Chinese Information Retrieval
 
-When input a keyword, this tool will search in the corpus and output the matching documents according to their relevance to the given query.
+This tool is intended for retrieving information from corpus.
+When input a keyword, it will search the corpus and output the IDs of matching documents according to their relevance to the given query.
 The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
