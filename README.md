@@ -32,4 +32,4 @@ The documents are stored in .txt files and arranged in the following format:
            <doc> document content <doc>
 
 # Chinese Word Segmentation
-The Chinese word segmenter used for the documents is lucene-core-3.6.0 + IKAnalyzer2012.
+The Chinese word segmenter used for processing documents is lucene-core-3.6.0 + IKAnalyzer2012.
