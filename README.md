@@ -4,7 +4,7 @@ When input a keyword, this tool will search in the corpus and rank the matching 
 The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
-The search results are displayed in following format:
+The search results are displayed as follows:
 
      Doc ID, TF/IDF score of the keyword in this document
 
