@@ -28,8 +28,8 @@ For example:
 
 The documents are stored in .txt files and arranged in the following format:
 
-           \<docid> document ID \<docid>
-           \<doc> document content \<doc>
+           <docid> document ID <docid>
+           <doc> document content <doc>
 
 # Chinese Word Segmentation
 The Chinese word segmenter used for the documents is lucene-core-3.6.0 + IKAnalyzer2012.
