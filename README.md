@@ -1,6 +1,6 @@
 # A Simple Tool for Chinese Information Retrieval
 
-This tool (demo) is intended for retrieving information from corpus.
+This tool (demo) is intended for retrieving information in corpus.
 When a keyword is input, this tool will search and rank the matching documents in the corpus according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
