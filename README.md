@@ -4,7 +4,7 @@ This tool (demo) is intended for retrieving information in corpus.
 When a keyword is input, this tool will search and rank the matching documents in the corpus according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
-The search results are displayed as follows:
+The search results are displayed in the following format:
 
      Document ID, TF/IDF score of the keyword in this document
 
