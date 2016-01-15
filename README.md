@@ -8,7 +8,7 @@ The search results are displayed as follows:
 
      Document ID, TF/IDF score of the keyword in this document
 
-For example:
+Usage example:
 
      Input: 汽车 (car)
 
@@ -24,9 +24,9 @@ For example:
 
      doc4, 0.014135937412525201
 
-# Document Format
+# Corpus Format
 
-The documents are stored in .txt files and arranged in the following format:
+The corpus is stored in .txt files and arranged in the following format:
 
            <docid> document ID <docid>
            <doc> document content <doc>
