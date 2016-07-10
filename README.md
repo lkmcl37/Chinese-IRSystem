@@ -1,7 +1,7 @@
-# A Simple Tool for Chinese Information Retrieval
+# Implementation of TF/IDF for information retrieval
 
-This tool (demo) is intended for retrieving information in corpus.
-When a keyword is input, this tool will search and rank the matching documents in the corpus according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
+A simple implementation of TF/IDF for retrieving information in corpus.
+When a keyword is input, this program will search and display the matching documents in the corpus according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
 The search results are displayed in the following format:
