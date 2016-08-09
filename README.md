@@ -1,7 +1,7 @@
 # Implementation of TF/IDF for information retrieval
 
 A simple implementation of TF/IDF for retrieving information in corpus.
-When a keyword is input, this program will search and display the matching documents in the corpus according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
+Given a keyword, it's able to search the corpus and display the matching documents according to their relevance to the given query. The degree of relevance is estimated based on TF/IDF weighting.
 
 # Result Display
 The search results are displayed in the following format:
